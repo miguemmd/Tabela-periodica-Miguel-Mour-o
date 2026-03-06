@@ -1,0 +1,57 @@
+table {width: 100%; height: 100vh;}
+td {width: 5%; height: 8vh;}
+
+.elemento { border: solid;}
+
+.hidrogenio { background-color: #a1d344;}
+.alcalinos { background-color: #f1b200;}
+.alcalinos_terrosos { background-color: #eada00;}
+.outros_metais { background-color: #a2c7d3;}
+.semimetais { background-color: #4db6ac;}
+.nao_metais { background-color: #a1d344;}
+.gases_nobres { background-color: #3d9ee3;}
+.halogenios { background-color: #70cbeb;}
+.metais_transicao { background-color: #eb8e8e;}
+.lantanideos { background-color: #90e3e9;}
+.actinidios { background-color: #dcadd6;}
+
+.nm {width: 30px;
+    height: 30px;
+    background-color: #a1d344;
+margin-left: 60%;}
+.ma {width: 30px;
+    height: 30px;
+    background-color: #f1b200;
+margin-left: 60%;}
+.sm {width: 30px;
+    height: 30px;
+    background-color: #4db6ac;
+margin-left: 60%;}
+.om {width: 30px;
+    height: 30px;
+    background-color: #a2c7d3;
+margin-left: 60%;}
+.ld {width: 30px;
+    height: 30px;
+    background-color: #90e3e9;
+margin-left: 60%;}
+.gn {width: 30px;
+    height: 30px;
+    background-color: #3d9ee3;
+margin-left: 60%;}
+.mt {width: 30px;
+    height: 30px;
+    background-color: #eada00;
+margin-left: 60%;}
+.hg {width: 30px;
+    height: 30px;
+    background-color: #70cbeb;
+margin-left: 60%;}
+.ms {width: 30px;
+    height: 30px;
+    background-color: #eb8e8e;
+margin-left: 60%;}
+.ac {width: 30px;
+    height: 30px;
+    background-color: #dcadd6;
+margin-left: 60%;}
