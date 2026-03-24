@@ -1,7 +1,7 @@
 table {width: 100%; height: 100vh;}
 td {width: 5%; height: 8vh;}
 
-.elemento { border: solid;}
+.elemento { border: 2px solid;}
 
 .hidrogenio { background-color: #a1d344;}
 .alcalinos { background-color: #f1b200;}
@@ -18,40 +18,59 @@ td {width: 5%; height: 8vh;}
 .nm {width: 30px;
     height: 30px;
     background-color: #a1d344;
+    border: solid 2px black;
 margin-left: 60%;}
+
 .ma {width: 30px;
     height: 30px;
     background-color: #f1b200;
+    border: solid 2px black;
 margin-left: 60%;}
 .sm {width: 30px;
     height: 30px;
     background-color: #4db6ac;
+    border: solid 2px black;
 margin-left: 60%;}
 .om {width: 30px;
     height: 30px;
     background-color: #a2c7d3;
+    border: solid 2px black;
 margin-left: 60%;}
 .ld {width: 30px;
     height: 30px;
     background-color: #90e3e9;
+    border: solid 2px black;
 margin-left: 60%;}
 .gn {width: 30px;
     height: 30px;
     background-color: #3d9ee3;
+    border: solid 2px black;
 margin-left: 60%;}
 .mt {width: 30px;
     height: 30px;
     background-color: #eada00;
+    border: solid 2px black;
 margin-left: 60%;}
 .hg {width: 30px;
     height: 30px;
     background-color: #70cbeb;
+    border: solid 2px black;
 margin-left: 60%;}
 .ms {width: 30px;
     height: 30px;
     background-color: #eb8e8e;
+    border: solid 2px black;
 margin-left: 60%;}
 .ac {width: 30px;
     height: 30px;
     background-color: #dcadd6;
+    border: solid 2px black;
 margin-left: 60%;}
+
+.e {
+    height: 5vh;
+}
+
+.elemento:hover{
+    scale: 1.2;   
+}
